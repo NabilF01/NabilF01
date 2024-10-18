@@ -12,13 +12,13 @@ I’m a **web developer** passionate about creating digital experiences. Here’
 
 - **Frontend Magic**: Building responsive UIs using **HTML**, **CSS**, and **JavaScript** (learning **React**).
 - **Backend Basics**: Handling server-side logic with **Node.js** and **Express**.
-- **Data Mastery**: Storing and managing data with **MongoDB** and **SQL**.
+- **Data Mastery**: Storing and managing data with **SQL**.
 - **Automations**: Scripting simple tools to automate and enhance workflows.
 
 I'm all about turning concepts into working, user-friendly websites and systems.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git&theme=dark" alt="Technologies & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,sql,git&theme=dark" alt="Technologies & Tools" />
 </p>
 
 ---
