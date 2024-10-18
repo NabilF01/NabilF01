@@ -18,7 +18,7 @@ I’m a **web developer** passionate about creating digital experiences. Here’
 I'm all about turning concepts into working, user-friendly websites and systems.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,sql,git&theme=dark" alt="Technologies & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git&theme=dark" alt="Technologies & Tools" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ I'm all about turning concepts into working, user-friendly websites and systems.
 ## 🔧 **Current Projects**
 
 - **Personal Portfolio**: Building my online portfolio using **HTML5**, **CSS3**, and **JavaScript**.
-- **Task Manager API**: Developing a REST API with **Node.js** and **MongoDB** to manage tasks.
+- **Task Manager API**: Developing a REST API with **Node.js** to manage tasks.
 - **Frontend Challenges**: Solving UI/UX design challenges on platforms like Frontend Mentor.
 
 ---
@@ -66,7 +66,7 @@ Interested in collaborating or just want to chat? Feel free to contact me:
 
 ## 🎮 **What I Do for Fun**
 
-When I'm not coding, you can find me watching **sports** or getting lost in **mangas**. Always up for recommendations!
+When I'm not coding, you can find me doing **sports** or getting lost in **mangas**. Always up for recommendations!
 
 ---
 
