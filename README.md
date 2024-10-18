@@ -13,7 +13,6 @@ I’m a **web developer** passionate about creating digital experiences. Here’
 - **Frontend Magic**: Building responsive UIs using **HTML**, **CSS**, and **JavaScript** (learning **React**).
 - **Backend Basics**: Handling server-side logic with **Node.js** and **Express**.
 - **Data Mastery**: Storing and managing data with **SQL**.
-- **Automations**: Scripting simple tools to automate and enhance workflows.
 
 I'm all about turning concepts into working, user-friendly websites and systems.
 
@@ -60,10 +59,3 @@ I'm continuously enhancing my skills in:
 Interested in collaborating or just want to chat? Feel free to contact me:
 
 - **Email**: nabilfarhat01@gmail.com
-- **LinkedIn**: [Nabil Farhat](https://www.linkedin.com/in/nabil-farhat-998427199)
-
----
-
-## 🎮 **What I Do for Fun**
-
-When I'm not coding, you can find me doing **sports** or getting lost in **mangas**. Always up for recommendations!
