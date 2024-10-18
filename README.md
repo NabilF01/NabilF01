@@ -67,15 +67,3 @@ Interested in collaborating or just want to chat? Feel free to contact me:
 ## 🎮 **What I Do for Fun**
 
 When I'm not coding, you can find me doing **sports** or getting lost in **mangas**. Always up for recommendations!
-
----
-
-## 🤝 **Open to Collaboration**
-
-I'm open to working on new and exciting projects! If you have an idea or want to collaborate, feel free to open an **issue** or contact me directly.
-
----
-
-### ⭐️ **Show Some Love!**
-
-If you enjoy my work, consider starring my repositories. It means a lot!
