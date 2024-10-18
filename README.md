@@ -22,14 +22,6 @@ I'm all about turning concepts into working, user-friendly websites and systems.
 
 ---
 
-## 🔧 **Current Projects**
-
-- **Personal Portfolio**: Building my online portfolio using **HTML5**, **CSS3**, and **JavaScript**.
-- **Task Manager API**: Developing a REST API with **Node.js** to manage tasks.
-- **Frontend Challenges**: Solving UI/UX design challenges on platforms like my Frontend mentor named [Omarhio](https://github.com/Omarhio).
-
----
-
 ## 📈 **My GitHub Journey**
 
 Check out how my work has evolved over time:
@@ -41,6 +33,14 @@ Check out how my work has evolved over time:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilF01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## 🔧 **Current Projects**
+
+- **Personal Portfolio**: Building my online portfolio using **HTML5**, **CSS3**, and **JavaScript**.
+- **Task Manager API**: Developing a REST API with **Node.js** to manage tasks.
+- **Frontend Challenges**: Solving UI/UX design challenges on platforms like my Frontend mentor named [Omarhio](https://github.com/Omarhio).
 
 ---
 
