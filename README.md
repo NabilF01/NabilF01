@@ -11,7 +11,7 @@ Welcome to my GitHub profile! This is where I showcase my journey in web develop
 I’m a **web developer** passionate about creating digital experiences. Here’s what I focus on:
 
 - **Frontend Magic**: Building responsive UIs using **HTML**, **CSS**, and **JavaScript** (learning **React**).
-- **Backend Basics**: Handling server-side logic with **Node.js** and **Express**.
+- **Backend Basics**: Handling server-side logic with **Node.js**.
 - **Data Mastery**: Storing and managing data with **SQL**.
 
 I'm all about turning concepts into working, user-friendly websites and systems.
