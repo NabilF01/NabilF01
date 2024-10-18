@@ -18,7 +18,7 @@ I’m a **web developer** passionate about creating digital experiences. Here’
 I'm all about turning concepts into working, user-friendly websites and systems.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git&theme=dark" alt="Technologies & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git&theme=dark" alt="Technologies & Tools" />
 </p>
 
 ---
