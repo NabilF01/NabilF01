@@ -1,59 +1,81 @@
-## Hi there, my name is Nabil ! 👋
+# Hi, I'm **Nabil Farhat**! 👋
 
-### 🚀 Web Developer Passionate About Code and New Technologies
+### 🚀 **Web Developer Enthusiast** | Exploring Code, Automation & Tech
 
-Welcome to my GitHub profile! Here you'll find a collection of my web development projects, coding practice, and explorations in digital solutions. I am always eager to learn and grow in this ever-evolving field.
+Welcome to my GitHub profile! This is where I showcase my journey in web development, tackling new challenges and embracing innovations. Explore my projects and feel free to connect!
 
 ---
 
-## 🔍 About Me
+## 📌 **About Me**
 
-I am a **web developer** currently focused on:
+I’m a **web developer** passionate about creating digital experiences. Here’s what I focus on:
 
-- **💻 Frontend Development**: HTML, CSS, JavaScript (with an interest in React).
-- **🌐 Backend Basics**: Node.js and Express for building APIs.
-- **📦 Databases**: MongoDB and SQL for managing data.
-- **⚙️ Automation**: Creating simple scripts to streamline workflows and automate tasks.
+- **Frontend Magic**: Building responsive UIs using **HTML**, **CSS**, and **JavaScript** (learning **React**).
+- **Backend Basics**: Handling server-side logic with **Node.js** and **Express**.
+- **Data Mastery**: Storing and managing data with **MongoDB** and **SQL**.
+- **Automations**: Scripting simple tools to automate and enhance workflows.
 
-I enjoy building user-friendly websites and improving my skills with hands-on projects. Collaboration and knowledge sharing are essential parts of my learning process.
+I'm all about turning concepts into working, user-friendly websites and systems.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git&theme=light" alt="Technologies & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git&theme=dark" alt="Technologies & Tools" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🔧 **Current Projects**
 
-- Exploring **JavaScript** for creating dynamic, responsive web pages.
-- Experimenting with **Node.js** to handle server-side logic and API development.
+- **Personal Portfolio**: Building my online portfolio using **HTML5**, **CSS3**, and **JavaScript**.
+- **Task Manager API**: Developing a REST API with **Node.js** and **MongoDB** to manage tasks.
+- **Frontend Challenges**: Solving UI/UX design challenges on platforms like Frontend Mentor.
+
+---
+
+## 📈 **My GitHub Journey**
+
+Check out how my work has evolved over time:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilfarhat01&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfarhat01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
+## 🌱 **Learning Path**
 
-You can contact me via the following platforms:
+I'm continuously enhancing my skills in:
 
-- **Email** : nabilfarhat01@gmail.com
-- **LinkedIn** : [Nabil Farhat](https://www.linkedin.com/in/nabil-farhat-998427199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
----
-
-## ⚡ Fun fact
-
-When I’m not coding, I enjoy watching sports and reading mangas!
+- **JavaScript Frameworks**: Focus on **React** for interactive web apps.
+- **API Development**: Sharpening my backend skills with **Node.js** and **Express**.
+- **Database Design**: Improving my understanding of **MongoDB** and **SQL**.
 
 ---
 
-## 🤝 Contribution
+## 💬 **Get in Touch**
 
-I'm open to collaborations on exciting web development projects. Feel free to open an **issue** or reach out to me for project ideas or discussions.
+Interested in collaborating or just want to chat? Feel free to contact me:
+
+- **Email**: nabilfarhat01@gmail.com
+- **LinkedIn**: [Nabil Farhat](https://www.linkedin.com/in/nabil-farhat-998427199)
 
 ---
 
-### 🌟 Thanks for visiting my profile! If you like my projects, don’t forget to leave a star ⭐️!
+## 🎮 **What I Do for Fun**
 
+When I'm not coding, you can find me watching **sports** or getting lost in **mangas**. Always up for recommendations!
+
+---
+
+## 🤝 **Open to Collaboration**
+
+I'm open to working on new and exciting projects! If you have an idea or want to collaborate, feel free to open an **issue** or contact me directly.
+
+---
+
+### ⭐️ **Show Some Love!**
+
+If you enjoy my work, consider starring my repositories. It means a lot!
