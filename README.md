@@ -26,7 +26,7 @@ I'm all about turning concepts into working, user-friendly websites and systems.
 
 - **Personal Portfolio**: Building my online portfolio using **HTML5**, **CSS3**, and **JavaScript**.
 - **Task Manager API**: Developing a REST API with **Node.js** to manage tasks.
-- **Frontend Challenges**: Solving UI/UX design challenges on platforms like my Frontend Mentor named [Omarhio](https://github.com/Omarhio).
+- **Frontend Challenges**: Solving UI/UX design challenges on platforms like my Frontend mentor named [Omarhio](https://github.com/Omarhio).
 
 ---
 
