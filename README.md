@@ -38,9 +38,8 @@ I enjoy building user-friendly websites and improving my skills with hands-on pr
 
 You can contact me via the following platforms:
 
-- **Email** : 
-- **LinkedIn** : 
-- **Twitter** : 
+- **Email** : nabilfarhat01@gmail.com
+- **LinkedIn** : https://www.linkedin.com/in/nabil-farhat-998427199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
