@@ -8,16 +8,22 @@ Welcome to my GitHub profile! This is where I showcase my journey in web develop
 
 ## 📌 **About Me**
 
-I’m a **web developer** passionate about creating digital experiences. Here’s what I focus on:
-
-- **Frontend Magic**: Building responsive UIs using **HTML**, **CSS**, and **JavaScript** (learning **React**).
-- **Backend Basics**: Handling server-side logic with **Node.js**.
-- **Data Mastery**: Storing and managing data with **SQL**.
+| Focus Area          | Description                                               |
+|---------------------|----------------------------------------------------------|
+| **Frontend Magic**  | Building responsive UIs using **HTML**, **CSS**, and **JavaScript** (learning **React**). |
+| **Backend Basics**  | Handling server-side logic with **Node.js**.            |
+| **Data Mastery**    | Storing and managing data with **SQL**.                 |
 
 I'm all about turning concepts into working, user-friendly websites and systems.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git&theme=dark" alt="Technologies & Tools" />
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-%2338B9F8.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 </p>
 
 ---
@@ -58,4 +64,4 @@ I'm continuously enhancing my skills in:
 
 Interested in collaborating or just want to chat? Feel free to contact me:
 
-- **Email**: nabilfarhat01@gmail.com
+- **Email**: [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilfarhat01@gmail.com)
