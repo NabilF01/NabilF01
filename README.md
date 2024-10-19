@@ -26,6 +26,20 @@ I'm all about turning concepts into working, user-friendly websites and systems.
 
 ---
 
+## 📈 **My GitHub Journey**
+
+Check out how my work has evolved over time:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NabilF01&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilF01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 🔨 **Ongoing Projects**
 
 | Project                  | Description                                                                                         | Technologies                  |
