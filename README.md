@@ -62,4 +62,4 @@ I'm continuously enhancing my skills in:
 
 Interested in collaborating or just want to chat? Feel free to contact me:
 
-- **Email**: [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilfarhat01@gmail.com)
+[![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilfarhat01@gmail.com)
