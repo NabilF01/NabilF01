@@ -1,8 +1,8 @@
-# Hi, I'm **Nabil Farhat**! 👋
+# Welcome, I'm **Nabil Farhat** 🎯
 
-### 🚀 **Web Developer Enthusiast** | Exploring Code, Automation & Tech
+### 🚀 **Web Developer Enthusiast** | Passionate About Creating Digital Solutions
 
-Welcome to my GitHub profile! This is where I showcase my journey in web development, tackling new challenges and embracing innovations. Explore my projects and feel free to connect!
+Thank you for visiting my GitHub profile! This is where I showcase my web development journey, consistently tackling new challenges and experimenting with modern technologies. Explore my projects and feel free to connect with me!
 
 ---
 
@@ -26,35 +26,25 @@ I'm all about turning concepts into working, user-friendly websites and systems.
 
 ---
 
-## 📈 **My GitHub Journey**
+## 🔨 **Ongoing Projects**
 
-Check out how my work has evolved over time:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabilF01&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilF01&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+| Project                  | Description                                                                                         | Technologies                  |
+|--------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------|
+| **E-commerce Website**    | Developing a full-stack application with a **Node.js** backend and **React** frontend.              | HTML5, CSS3, JavaScript, React, Node.js |
+| **Interactive Dashboard** | Creating a dynamic admin dashboard with **JavaScript**, focusing on data visualization.              | JavaScript, HTML5, CSS3        |
+| **Database-Driven App**   | Developing a data-centric app using **SQL** and an API built with **Node.js**.                      | SQL, Node.js                   |
+| **Automation with Python**| Building automation scripts using **Python** to simplify repetitive tasks.                          | Python                         |
 
 ---
 
-## 🔧 **Current Projects**
+## 📘 **Skills I'm Developing**
 
-- **Personal Portfolio**: Building my online portfolio using **HTML5**, **CSS3**, and **JavaScript**.
-- **Task Manager API**: Developing a REST API with **Node.js** to manage tasks.
-- **Frontend Challenges**: Solving UI/UX design challenges on platforms like my Frontend mentor named [Omarhio](https://github.com/Omarhio).
-
----
-
-## 🌱 **Learning Path**
-
-I'm continuously enhancing my skills in:
-
-- **JavaScript Frameworks**: Focus on **React** for interactive web apps.
-- **API Development**: Sharpening my backend skills with **Node.js** and **Express**.
-- **Database Design**: Improving my understanding of **MongoDB** and **SQL**.
+| Skill                         | Description                                                                      | Current Focused Technologies |
+|-------------------------------|----------------------------------------------------------------------------------|------------------------------|
+| **Advanced Frontend Development** | Deepening expertise in **React** to build sophisticated and efficient UIs.        | React, JavaScript             |
+| **Backend and APIs**           | Strengthening backend development knowledge with **Node.js** and **Express**.     | Node.js, Express              |
+| **Data Handling**              | Improving understanding of relational (**SQL**) and non-relational (**MongoDB**) databases. | SQL, MongoDB                  |
+| **Python Programming**         | Learning **Python** for automation, data analysis, and web development.           | Python                        |
 
 ---
 
